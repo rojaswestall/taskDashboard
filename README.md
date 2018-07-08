@@ -7,6 +7,7 @@ To run it:
 
 ```
 cd task-dashboard
+yarn
 yarn start
 ```
 
